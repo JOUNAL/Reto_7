@@ -83,5 +83,7 @@ Nombre:Sancocho de pescado Precio_u:4000 Cantidad:2
 Nombre:Cerdo a la llanera Precio_u:9000 Cantidad:2
 Nombre:Parfait Precio_u:3500 Cantidad:2
 ```
+
+(Para mayor detalle, revisar el archivo Menu_class.py)
 Muchas Gracias por leer.
 
