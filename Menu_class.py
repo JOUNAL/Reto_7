@@ -111,5 +111,4 @@ orden_1.get_list()
 
 
 for item_order in orden_1:
-  objecto=list(item_order)
   print(f"Nombre:{item_order.name} Precio_u:{item_order.price} Cantidad:{item_order.quantity}")
